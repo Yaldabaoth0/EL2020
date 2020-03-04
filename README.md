@@ -1,3 +1,6 @@
-# EL2020
+temp.py
 
-This work is the work of Joshua D. Raber, taking the Spring 2020 Semester Class of Embedded Linux. 
+For this program, one must hold down the temp sensor to display the temperature ready by the DH11 Temperature and Humidiy Sensor to the terminal.
+
+Joshua Raber
+
