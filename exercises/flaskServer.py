@@ -53,5 +53,5 @@ def button():
 
 
 if __name__ == "__main__":
-	app.run(host='192.168.1.220', port=2020, debug=True)
+	app.run(host='0.0.0.0', port=2020, debug=True)
 
