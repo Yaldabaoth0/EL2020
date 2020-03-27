@@ -10,4 +10,6 @@ When pressing the "Blink LED!" Button on the HTML, it blinks the LED for a durat
 
 Pressing the button again will simply blink the LED again.
 
+To add additional values to the database, code/tempLogSql.py
+
 Joshua Raber
