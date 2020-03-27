@@ -1,8 +1,13 @@
 # EL2020
 
-This program will record the temperature from the DH11 Temperature and
-Humidity Sensor and record the data into a log file every minute.
+MIDTERM
+[Sorry for the Clutter Files, have to clean my PI somehow due to not using git properly]
 
-There were complications with the SQL portion, and due to circumstansial issues with coronavirus and school closings, I have had to divert time into packing and other issues.
+flaskServer.py is located in exercises/
+index is in exercises/templates/
+
+When pressing the "Blink LED!" Button on the HTML, it blinks the LED for a duration of 0.1 seconds, ONE Time.
+
+Pressing the button again will simply blink the LED again.
 
 Joshua Raber
